@@ -1,5 +1,4 @@
-<br>
-[![Kokolist](https://raw.githubusercontent.com/devlonoah/kokolist/main/assets/img/main_page_shot.png)](https://kokolist.github.io/)
+[![Kokolist](https://raw.githubusercontent.com/devlonoah/kokolist.github.io/main/assets/img/main_page_shot.png)](https://kokolist.github.io/)
 
 
  ### Your number one shopping companion.
